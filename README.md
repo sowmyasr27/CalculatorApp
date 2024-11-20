@@ -13,7 +13,7 @@ Displays a SYNTAX ERROR message for invalid operations.
 Responsive Design:
 Automatically adjusts button sizes with grid layout.
 Technologies Used: 
-Java 
-Swing for GUI
-Event Handling using ActionListener
-Custom Fonts and Colors for a modern look
+Java,
+Swing for GUI,
+Event Handling using ActionListener,
+Custom Fonts and Colors for a modern look.
